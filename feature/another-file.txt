@@ -1,3 +1,4 @@
 Another file created in feature directory.
 
 This file was modified locally on 6/3.
+This file was modified again on 6/3 locally.
