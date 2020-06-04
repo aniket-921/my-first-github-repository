@@ -3,3 +3,5 @@ Another file created in feature directory.
 This file was modified locally on 6/3.
 This file was modified again on 6/3 locally.
 made changes on 6/4 remote.
+This line was added in Feature-2 branch
+
